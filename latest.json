@@ -1,6 +1,6 @@
 {
+  "sha256": "30ED26B9AD67F767F9AC8561312ADDADC5A495FD9886A8AD9D52399F501022A1",
   "sizeMb": 56.9,
-  "file": "ContentStudioAgent-Setup.exe",
-  "version": "0.1.30-test",
-  "sha256": "598EC57C1DE32CF6A46A3801F80EB632C56571C585F5B6A5A4AFE31783402DD7"
+  "version": "0.1.31-test",
+  "file": "ContentStudioAgent-Setup.exe"
 }
